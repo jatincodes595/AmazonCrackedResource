@@ -107,17 +107,18 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
-| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
-| [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
-| [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | Medium |
+| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | ✅ | Medium |
+| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) | ✅ | Medium |
+| [Decode Ways](https://leetcode.com/problems/decode-ways/) | ✅ | Medium |
+| [Baseball Game](https://leetcode.com/problems/baseball-game/) | ✅ | Easy |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ | Medium |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | ✅ | Medium |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | ✅ | Medium |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ✅ | Medium-Hard |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ | Medium |
 
+#CrackWithKushalVijay  #SavageForce  #JobHuntWithSavageProgrammer
 ---
 ## Contribute
 
